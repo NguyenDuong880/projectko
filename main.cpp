@@ -53,6 +53,6 @@ void main()
 	tinh ke thua
 	*/
 	//HinhChuNhat E
-
+	delete(pA);
 }
 

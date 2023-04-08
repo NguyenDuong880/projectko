@@ -54,7 +54,9 @@ void main()
 	*/
 	//HinhChuNhat E
 	delete pA;
-	HinhchuNhat C;
+	hinh_chu_nhat C;
+	hinh_chu_nhat D;
+	
 
 }
 

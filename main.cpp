@@ -62,6 +62,7 @@ void main()
 	tam_giac_can J;
 	hinh_tron K;
 	hinh_tron L;
+	hinh_thoi P;
 
 }
 

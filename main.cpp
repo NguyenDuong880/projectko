@@ -56,7 +56,7 @@ void main()
 	delete pA;
 	hinh_chu_nhat C;
 	hinh_chu_nhat D;
-	
+	hinh_vuong I;
 
 }
 

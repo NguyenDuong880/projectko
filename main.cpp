@@ -59,5 +59,9 @@ void main()
 	hinh_tam_giac F;
 	hinh_chu_nhat G;
 	hinh_chu_nhat H;	
+	tam_giac_can J;
+	hinh_tron K;
+	hinh_tron L;
+
 }
 
